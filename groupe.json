@@ -1,0 +1,68 @@
+[
+	{
+  
+	"name": "Clement Chapurlat",
+	"desc" : " ❝On se protège des autres au lieu de se protéger de soi-même ❞.",
+	"image":"../assets/adaptative-icon.png"
+	},
+	{
+  
+	  "name": "Farah Abdelkhalek",
+	  "desc" : " ❝L'écoute entend l'autre dans son propre silence. ❞",
+	  "image":"../assets/adaptative-icon.png"
+	},
+	{
+  
+	  "name": "Antoine Faust",
+	  "desc" : " ❝Les yeux de l'éveil sont innombrables mais l'éveil n'a qu'un oeil. ❞",
+	  "image":"../assets/adaptative-icon.png"
+	},
+	{
+  
+	  "name": "Benjamin Bordes",
+	  "desc" : " ❝La mort est ce merveilleux instant ou le lâcher-prise devient spontané. ❞",
+	  "image":"../assets/adaptative-icon.png"
+	},
+	{
+  
+	  "name": "Hippolyte Bach",
+	  "desc" : " ❝Connaître, c'est interroger l'inconnaissable pour s'en étonner. ❞",
+	  "image":"../assets/adaptative-icon.png"
+	},	
+	{
+  
+	"name": "Maximilien-marie delorme",
+	"desc" : " ❝La mort est ce merveilleux instant ou le lâcher-prise devient spontané. ❞",
+	"image":"../assets/adaptative-icon.png"
+	},
+	{
+  
+	  "name": "Lilian Mayet",
+	  "desc" : " ❝L'écoute entend l'autre dans son propre silence. ❞",
+	  "image":"../assets/adaptative-icon.png"
+	},
+	{
+  
+	  "name": "Guylain Maurel",
+	  "desc" : " ❝Connaître, c'est interroger l'inconnaissable pour s'en étonner. ❞",
+	  "image":"../assets/adaptative-icon.png"
+	},
+	{
+  
+	  "name": "Nathan Weber",
+	  "desc" : " ❝Les yeux de l'éveil sont innombrables mais l'éveil n'a qu'un oeil. ❞",
+	  "image":"../assets/adaptative-icon.png"
+	},
+	{
+  
+	  "name": "Armand Bidault",
+	  "desc" : " ❝L'intelligence vise à simplifier ce qui est complexe, la vanité à complexifier ce qui devrait rester simple. ❞",
+	  "image":"../assets/adaptative-icon.png"
+	},
+	{
+  
+		"name": "Adrien Bethuel",
+		"desc" : " ❝La différence entre l'intelligence et la stupidité, c'est que la stupidité n'a pas de limite. ❞",
+		"image":"../assets/adaptative-icon.png"
+	  }
+  ]
